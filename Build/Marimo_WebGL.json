@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Marimo_WebGL.data.unityweb",
+"asmCodeUrl": "Marimo_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Marimo_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Marimo_WebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
